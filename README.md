@@ -1,7 +1,7 @@
 
 # Chakram Api Test
 
-[Swagger Petstore](https://petstore.swagger.io/))
+[Swagger Petstore](https://petstore.swagger.io/)
 
 ## Api Testinde Yapılan Metodlar
 
